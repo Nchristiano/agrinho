@@ -1,45 +1,73 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Projeto no GitHub</title>
+    <title>Agrinho 2024</title>
     <link rel="stylesheet" href="style.css">
-    <style>
-        /* Estilos específicos para a página */
-        .content {
-            padding: 20px;
-            background-color: #fff;
-            border: 1px solid #ccc;
-            margin-top: 20px;
-        }
-
-        .content p {
-            line-height: 1.6;
-        }
-    </style>
 </head>
 <body>
-    <header class="header">
-        <h1>Meu Projeto no GitHub</h1>
+    <header>
+        <div class="container">
+            <h1>Agrinho 2024</h1>
+            <nav>
+                <ul>
+                    <li><a href="#sobre">Sobre</a></li>
+                    <li><a href="#eventos">Eventos</a></li>
+                    <li><a href="#inscricao">Inscrição</a></li>
+                    <li><a href="#contato">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
 
-    <div class="container">
-        <nav class="navbar">
-            <a href="#">Página Inicial</a>
-            <a href="#">Sobre</a>
-            <a href="#">Contato</a>
-        </nav>
-
-        <div class="content">
-            <h2>Bem-vindo ao Meu Projeto!</h2>
-            <p>Este é um exemplo básico de uma página HTML para um projeto hospedado no GitHub.</p>
-            <p>Você pode modificar e expandir este projeto conforme necessário.</p>
+    <section id="sobre" class="section">
+        <div class="container">
+            <h2>Sobre o Agrinho 2024</h2>
+            <p>O Agrinho 2024 é um evento dedicado à educação no campo, promovendo...</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero...</p>
         </div>
-    </div>
+    </section>
 
-    <footer class="footer">
-        <p>&copy; 2024 Meu Projeto. Todos os direitos reservados.</p>
+    <section id="eventos" class="section">
+        <div class="container">
+            <h2>Eventos do Agrinho 2024</h2>
+            <ul>
+                <li>Workshops educacionais</li>
+                <li>Atividades ao ar livre</li>
+                <li>Competições entre escolas</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="inscricao" class="section">
+        <div class="container">
+            <h2>Inscrição no Agrinho 2024</h2>
+            <p>Faça sua inscrição agora para participar do Agrinho 2024! Preencha o formulário abaixo:</p>
+            <form action="#" method="post">
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome" required>
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" required>
+                <button type="submit">Enviar Inscrição</button>
+            </form>
+        </div>
+    </section>
+
+    <section id="contato" class="section">
+        <div class="container">
+            <h2>Contato</h2>
+            <p>Entre em contato conosco para mais informações sobre o Agrinho 2024:</p>
+            <p>E-mail: agrinho2024@example.com</p>
+            <p>Telefone: (00) 1234-5678</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Agrinho 2024. Todos os direitos reservados.</p>
+        </div>
     </footer>
+
 </body>
 </html>
