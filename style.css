@@ -3,7 +3,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #00ff2a48;
+    background-color: #006d12;
     margin: 0;
     padding: 0;
 }
@@ -38,7 +38,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #00ff0d86;
+    color: #ffffff86;
     text-decoration: none;
 }
 
