@@ -16,7 +16,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #016b36;
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -56,12 +56,12 @@ nav ul li a:hover {
 }
 
 .section p {
-    font-size: 1.1em;
+    font-size: 1.1em ;
     margin-bottom: 20px;
 }
 
 footer {
-    background-color: #333;
+    background-color: #016b36;
     color: #fff;
     text-align: center;
     padding: 10px 0;
