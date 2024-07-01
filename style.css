@@ -3,7 +3,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #00ff2a;
+    background-color: #00ff2a48;
     margin: 0;
     padding: 0;
 }
@@ -17,7 +17,7 @@ body {
 
 header {
     background-color: #016b36;
-    color: #09ff00;
+    color: #09ff004b;
     padding: 10px 0;
     text-align: center;
 }
@@ -38,7 +38,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #00ff0d;
+    color: #00ff0d56;
     text-decoration: none;
 }
 
@@ -62,7 +62,7 @@ nav ul li a:hover {
 
 footer {
     background-color: #016b36;
-    color: #1eff00;
+    color: #3cff0048;
     text-align: center;
     padding: 10px 0;
     position: fixed;
