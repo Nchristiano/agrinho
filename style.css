@@ -38,7 +38,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #009b0886;
+    color: #00ff0d86;
     text-decoration: none;
 }
 
@@ -61,7 +61,7 @@ nav ul li a:hover {
 }
 
 footer {
-    background-color: #016b36;
+    background-color: #03a711;
     color: #3cff0048;
     text-align: center;
     padding: 10px 0;
