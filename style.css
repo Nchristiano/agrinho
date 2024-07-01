@@ -3,7 +3,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f0f0f0;
+    background-color: #00ff2a;
     margin: 0;
     padding: 0;
 }
@@ -38,7 +38,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #00ff0d;
     text-decoration: none;
 }
 
@@ -62,7 +62,7 @@ nav ul li a:hover {
 
 footer {
     background-color: #016b36;
-    color: #fff;
+    color: #1eff00;
     text-align: center;
     padding: 10px 0;
     position: fixed;
