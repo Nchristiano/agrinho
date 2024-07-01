@@ -16,8 +16,8 @@ body {
 }
 
 header {
-    background-color: #016b36;
-    color: #09ff004b;
+    background-color: #2e7a02;
+    color: #057501e8;
     padding: 10px 0;
     text-align: center;
 }
@@ -38,7 +38,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #00ff0d56;
+    color: #009b0886;
     text-decoration: none;
 }
 
