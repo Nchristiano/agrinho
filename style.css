@@ -9,7 +9,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.6;
-    background-color: #f0f0f0;
+    background-color: #0c8b32;
     color: #333;
 }
 
@@ -22,7 +22,7 @@ body {
 
 header {
     background-color: #4CAF50;
-    color: #fff;
+    color: #078d29;
     padding: 10px 0;
     position: fixed;
     width: 100%;
@@ -45,7 +45,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #1ca039;
     text-decoration: none;
     font-size: 1.2em;
     transition: color 0.3s ease;
@@ -60,7 +60,7 @@ main {
 }
 
 .section {
-    background-color: #fff;
+    background-color: #0e8845;
     padding: 40px 0;
     text-align: center;
 }
@@ -79,7 +79,7 @@ main {
 .btn {
     display: inline-block;
     background-color: #4CAF50;
-    color: #fff;
+    color: #098b14;
     padding: 12px 24px;
     text-decoration: none;
     border-radius: 5px;
@@ -93,7 +93,7 @@ main {
 
 footer {
     background-color: #333;
-    color: #fff;
+    color: #068506;
     text-align: center;
     padding: 20px 0;
     position: absolute;
@@ -120,5 +120,6 @@ footer {
         margin: 0 auto;
     }
 }
+
 
 
